@@ -1,0 +1,17 @@
+ body { 
+       font-family: Arial, sans-serif; 
+        text-align: center; margin: 20px;
+      }
+.certificate { 
+               margin-bottom: 20px;
+             }
+ img {
+      width: 80%; 
+      max-width: 600px; 
+      border-radius: 8px;
+ }
+a  {
+      display: block; 
+      margin-top: 10px; 
+      font-weight: bold; 
+   }
