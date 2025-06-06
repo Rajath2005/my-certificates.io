@@ -26,6 +26,9 @@ my-certificates.io/
 ## 🌐 Live Demo:
 [Visit Website](https://rajath2005.github.io/my-certificates.io/)
 
+
+ ![Preview](certificates/Demo.png)
+
 ## 🛠 Fixing Image Issues:
 - Ensure **file names are correctly spelled & case-sensitive**.
 - Avoid spaces in file names.
