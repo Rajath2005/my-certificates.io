@@ -40,6 +40,17 @@ my-certificates.io/
 3. Push changes to GitHub, and GitHub Pages will update automatically.
 
 ---
+## 📫 Contributing & Support
+
+We welcome contributions and feedback!  
+Feel free to [open an issue](../../issues) or submit a [pull request](../../pulls) if you have suggestions or bug fixes.
+
+---
+
+**Thank you for checking out this project!**  
+If you found it useful, consider starring ⭐ the repo and sharing it with others.
+
+Happy coding! 🚀
 
 🔹 **Author**: Rajath Kiran A  
 📧 Contact: [Rajath2005]
